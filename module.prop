@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
+id=Freeform-AndroidGo
+name=Freeform in Android Go
+version=v1
+versionCode=1
+author=MaxFloyd
+description=Enable freeform support to Android Go
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
