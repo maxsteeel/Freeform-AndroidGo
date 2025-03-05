@@ -4,4 +4,3 @@ version=v1
 versionCode=1
 author=MaxFloyd
 description=Enable freeform support to Android Go
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
